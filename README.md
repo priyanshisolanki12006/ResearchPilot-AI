@@ -289,6 +289,7 @@ assets/comparison.png
 ```
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2026-07-03 205452" src="https://github.com/user-attachments/assets/18799ff2-6bda-4ce0-b19a-4bda40bffef6" />
 
 # 🔮 Future Enhancements
 
